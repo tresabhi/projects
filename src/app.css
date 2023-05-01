@@ -1,0 +1,10 @@
+@import 'https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@100..1000';
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+* {
+  font-family: 'Roboto Flex';
+}
